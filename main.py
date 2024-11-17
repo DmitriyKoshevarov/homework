@@ -1,4 +1,4 @@
-name = 'Urban'
+name = 'Dmitriy'
 print(name,type(name))
-name = 5
+name = 6
 print(name,type(name))
